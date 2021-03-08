@@ -1,4 +1,4 @@
-"""Project 00: A Touching Story About You and Your Bike. I have attempted both the above and beyond pointss in the 
+"""Project 00: A Touching Story About You and Your Bike. I have attempted both the above and beyond points in the 
 function fortune. I tried a small version of a game loop there."""
 
 __author__ = "730400756"
