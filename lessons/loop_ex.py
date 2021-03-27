@@ -9,3 +9,11 @@ while input("Do you need more love? yes/no -") == "yes":
     print(f"Count is {count}")
 
 print("Have a lovely day!")
+
+char: str = "a"
+
+while char != "h" and char != "a":
+    print("hi")
+else:
+    print("bye")
+    

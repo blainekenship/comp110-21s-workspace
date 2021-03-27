@@ -7,6 +7,10 @@ def main() -> None:
     """Entrypoint of the program."""
     # Put print statements here to test your function
     # ex. print(is_prime(5)), print(list_primes(10, 20))
+def primes(num: int) -> bool:
+    
+
+def list_primes(a: int, b: int) -> list[int]:
 
 
 if __name__ == "__main__":
