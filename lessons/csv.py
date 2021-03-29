@@ -2,7 +2,7 @@
 
 from csv import DictReader
 
-file_handle = open("data/weather.csv", "r", encoding="utf8")
+file_handle = open("../data/weather.csv", "r", encoding="utf8")
 csv_reader = DictReader(file_handle)
 
 # A "table" can be modeled as a list of rows, where a row
